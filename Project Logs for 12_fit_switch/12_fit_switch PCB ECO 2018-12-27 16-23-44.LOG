@@ -1,0 +1,49 @@
+Removed Member From Class: ClassName=12_fit_YC Member=CPU1
+Removed Member From Class: ClassName=12_fit_YC Member=LS2
+Removed Member From Class: ClassName=12_fit_YC Member=LS4
+Removed Member From Class: ClassName=12_fit_YC Member=LS6
+Removed Member From Class: ClassName=12_fit_YC Member=LS7
+Removed Member From Class: ClassName=12_fit_YC Member=LS9
+Change Component DesignItemId : Designator=DCT2 Old DesignItemId=05S05-N1 New DesignItemId=05S05-N1/N2
+Change Component DesignItemId : Designator=K5 Old DesignItemId=DSP1-L2-DC New DesignItemId=DSP1-L2-DC24V-F
+Change Component DesignItemId : Designator=K6 Old DesignItemId=DSP1-L2-DC New DesignItemId=DSP1-L2-DC24V-F
+Change Component DesignItemId : Designator=C27 Old DesignItemId=ELEC New DesignItemId=ELECTRO1
+Change Component DesignItemId : Designator=C17 Old DesignItemId=ELECT New DesignItemId=ELECTRO1
+Change Component DesignItemId : Designator=C18 Old DesignItemId=ELECT New DesignItemId=ELECTRO1
+Change Component DesignItemId : Designator=C33 Old DesignItemId=ELECT New DesignItemId=ELECTRO1
+Change Component DesignItemId : Designator=C96 Old DesignItemId=ELECT New DesignItemId=ELECTRO1
+Change Component DesignItemId : Designator=PT0 Old DesignItemId=V-SEN New DesignItemId=V-SENOR
+Change Component DesignItemId : Designator=PTB Old DesignItemId=V-SEN New DesignItemId=V-SENOR
+Change Component Description : Designator=C12 Old Description=Electrolytic Capaci New Description=Electrolytic Capacitor
+Change Component Description : Designator=C48 Old Description=Electrolytic Capaci New Description=Electrolytic Capacitor
+Change Component Description : Designator=C49 Old Description=Electrolytic Capaci New Description=Electrolytic Capacitor
+Change Component Description : Designator=C52 Old Description=Electrolytic Capaci New Description=Electrolytic Capacitor
+Change Component Description : Designator=C95 Old Description=Electrolytic Capaci New Description=Electrolytic Capacitor
+Change Component Description : Designator=J5 Old Description=Header, 8-Pin, Dual New Description=Header, 8-Pin, Dual row
+Change Component Description : Designator=BT1 Old Description=Multicell Batt New Description=Multicell Battery
+Change Component Description : Designator=C2 Old Description=Polarized Capacitor (Axi New Description=Polarized Capacitor (Axial)
+Change Component Description : Designator=C3 Old Description=Polarized Capacitor (Axi New Description=Polarized Capacitor (Axial)
+Change Component Description : Designator=C4 Old Description=Polarized Capacitor (Axi New Description=Polarized Capacitor (Axial)
+Change Component Description : Designator=C6 Old Description=Polarized Capacitor (Axi New Description=Polarized Capacitor (Axial)
+Change Component Description : Designator=C93 Old Description=Polarized Capacitor (Axi New Description=Polarized Capacitor (Axial)
+Change Component Description : Designator=C97 Old Description=Polarized Capacitor (Axi New Description=Polarized Capacitor (Axial)
+Change Component Description : Designator=K1 Old Description=RELA New Description=RELAY
+Change Component Description : Designator=K2 Old Description=RELA New Description=RELAY
+Change Component Description : Designator=K3 Old Description=Single-Pole Dual-Throw Rel New Description=Single-Pole Dual-Throw Relay
+Change Component Description : Designator=K4 Old Description=Single-Pole Dual-Throw Rel New Description=Single-Pole Dual-Throw Relay
+Change Component Description : Designator=U5 Old Description=single power isolator amp fixed gain is New Description=single power isolator amp fixed gain is 8
+Change Component Description : Designator=T2 Old Description=Three-winding Transformer (Idea New Description=Three-winding Transformer (Ideal)
+Change Component Description : Designator=L1 Old Description=Transformer (Coupled Inductor Mode New Description=Transformer (Coupled Inductor Model)
+Change Component Description : Designator=L3 Old Description=Transformer (Coupled Inductor Mode New Description=Transformer (Coupled Inductor Model)
+Change Component Description : Designator=L4 Old Description=Transformer (Coupled Inductor Mode New Description=Transformer (Coupled Inductor Model)
+Change Component Description : Designator=U12 Old Description=Zen New Description=Zener Diode
+Change Component Description : Designator=D1 Old Description=三? New Description=三极管
+Change Component Description : Designator=Q9 Old Description=三? New Description=三极管
+Change Component Description : Designator=Q10 Old Description=三? New Description=三极管
+Change Component Description : Designator=Q11 Old Description=三? New Description=三极管
+Change Component Description : Designator=Q12 Old Description=三? New Description=三极管
+Change Component Description : Designator=Q13 Old Description=三? New Description=三极管
+Change Component Description : Designator=VD3 Old Description=双向TV New Description=双向TVS
+Change Component Description : Designator=VD17 Old Description=双向TV New Description=双向TVS
+Change Component Description : Designator=U7 Old Description=隔离 New Description=隔离器
+Change Component Description : Designator=U8 Old Description=隔离 New Description=隔离器

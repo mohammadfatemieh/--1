@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CY_DC+ Pin=VD4-2
+Removed Pin From Net: NetName=CY_DC- Pin=VD24-2
+Added Pin To Net: NetName=CY_DC+_LINK Pin=VD4-2
+Added Pin To Net: NetName=CY_DC-_LINK Pin=VD24-2

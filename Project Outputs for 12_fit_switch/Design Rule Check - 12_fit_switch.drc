@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : F:\xr_company\PCB工程\一二次配合PCB\一二次配合底板\12_fit_switch.PcbDoc
+Date     : 2018/12/10 星期一
+Time     : 上午 8:47:25
+
+Processing Rule : Clearance Constraint (Gap=3.3mm) (InNetClass('RS232Class')),(InNetClass('CPUClass') AND NOT InNetClass('RS232Class') AND (NOT ONLAYER(KEEPOUTLAYER)))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) ((OnLayer('KeepOutLayer')or IsBoardCutoutRegion OR IsRegion)),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) ((InNamedPolygon('Top Layer-GND'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (not inpolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InNet('EARTH') and haspad('FREE-PAD2')),(OnLayer('KeepOutLayer'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (haspad('Free-PAD6'  , 'free-PAD4'  , 'Free-PAD1', 'Free-PAD0')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mm) (InNetClass('RELAYOUTClass')),(NOT InNetClass('RELAYOUTClass') AND (NOT ONLAYER(KEEPOUTLAYER)))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) (InNamedPolygon('BOT_GND','TOP_GND')),((not OnLayer('Keepout-Layer')) OR (NOT IsBoardCutoutRegion) OR (NOT IsRegion))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) ((InNamedPolygon('6GND'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('BOT_CTPTGND')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mm) (INPADCLASS(MOUTPADClass)),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.6mm) ((InNamedPolygon('TXGND'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) (InNamedPolygon('TOP_CTPTGND')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.5mm) (Air Gap=1mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.5mm) (Max=4mm) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('L1','L3')),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('J1','J2')),(InComponent('CPU1')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (K4),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (All),(All) 
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:05

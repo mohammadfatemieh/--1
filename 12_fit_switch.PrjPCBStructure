@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=12_fit_YK.SchDoc
+Record=SheetSymbol|SourceDocument=12_fit_YK.SchDoc|Designator=U_12OLDCTPOW|SchDesignator=U_12OLDCTPOW|FileName=12_fit_POW.SchDoc|SymbolType=Normal|RawFileName=12_fit_POW.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=12_fit_YK.SchDoc|Designator=U_12OLDCTSheet1|SchDesignator=U_12OLDCTSheet1|FileName=12_fit_YC.SchDoc|SymbolType=Normal|RawFileName=12_fit_YC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=12_fit_YK.SchDoc|Designator=U_OLDCTEPT|SchDesignator=U_OLDCTEPT|FileName=12_fit_YX.SchDoc|SymbolType=Normal|RawFileName=12_fit_YX.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
